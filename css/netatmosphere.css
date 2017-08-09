@@ -1,0 +1,16 @@
+/* plugin global styles */
+
+/* wrapper div for scrollbar view on table */
+div.table-wrapper {
+	overflow: auto;
+}
+
+.msg_important {
+	font-weight: bold;
+	color: red;
+}
+
+.msg_success {
+	font-weight: bold;
+	color: green;
+}

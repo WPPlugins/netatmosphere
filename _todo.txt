@@ -1,0 +1,4 @@
+merge measure data:
+
+updrade info for admin:
+tablepress: view-list.php:88 ('plugin_update_message')
